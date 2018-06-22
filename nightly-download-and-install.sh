@@ -5,7 +5,7 @@
 # done by R
 
 # default install directory 
-DIR=~/.bin
+DIR=$USER/.bin
 LANG="en-US"
 URL="https://download.mozilla.org/?product=firefox-nightly-latest-ssl&os=linux64&lang=$LANG"
 ICON="https://wiki.mozilla.org/images/7/7a/Firefox-nightly_logo-only_RGB_25%25.png"
